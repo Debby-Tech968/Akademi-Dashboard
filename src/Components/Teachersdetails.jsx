@@ -33,7 +33,7 @@ const Teachersdetails = () => {
             Teachers Details
           </h1>
 
-          <div className="flex  items-center bg-white rounded-full md:w-full w-full lg:w-65 ml-20 px-5 py-3 shadow-sm">
+          <div className="lg:flex md:hidden hidden items-center bg-white rounded-full md:w-full w-full lg:w-65 ml-20 px-5 py-3 shadow-sm">
             <img src={Searchicon} alt="Search" className="w-5 h-5" />
             <input
               type="text"
