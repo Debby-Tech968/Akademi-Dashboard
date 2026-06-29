@@ -9,7 +9,7 @@ import gear from "../assets/gear.png";
 import Placeholder from "../assets/Placeholder.png";
 import Location from "../assets/Location.png";
 import Phone1 from "../assets/Phone1.png";
-import Mail1 from "../assets/mail1.png";
+import Mail1 from "../assets/Mail1.png";
 import Btn from "./Btn";
 
 
