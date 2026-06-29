@@ -25,7 +25,7 @@ const Teachersdetails = () => {
   }
 
   return (
-    <div className="bg-[#F3F4FF] lg:h-383 xl:h-270  h-500 xl:ml-80 md:h-500 min-h-screen">
+    <div className="bg-[#F3F4FF] lg:h-383 xl:h-270  h-500 xl:ml-80 md:h-500 overflow-x-hidden min-h-screen">
       <Wrapper>
         {/* TOP BAR */}
         <div className="sticky  xl:fixed top-0 xl:left-80 xl:right-5 z-20 bg-[#F3F4FF] py-4 xl:pt-8 xl:px-10 flex flex-col lg:flex-row justify-between items-end md:items-end lg:items-center gap-4">
