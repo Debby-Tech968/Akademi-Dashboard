@@ -14,7 +14,7 @@ import Placeholder1 from "../assets/Placeholder1.png";
 import PerformanceChart from "./PerformanceChart";
 import SchoolCalendar from "./SchoolCalender";
 import SchoolFinance from "./SchoolFinance";
-import Print from "../assets/Print.png";
+import Print from "../assets/print.png";
 // import StudentTable from "./StudentTable";
 
 const Dashboard = () => {
