@@ -29,7 +29,7 @@ const Teachersdetails = () => {
       <Wrapper>
         {/* TOP BAR */}
         <div className="sticky  xl:fixed top-0 xl:left-80 xl:right-5 z-20 bg-[#F3F4FF] py-4 xl:pt-8 xl:px-10 flex flex-col lg:flex-row justify-between items-end md:items-end lg:items-center gap-4">
-          <h1 className="text-[28px] sm:text-[32px] lg:text-[36px] font-bold text-[#303972] lg:mt-4 xl:mt-0">
+          <h1 className="text-[16px] sm:text-[32px] lg:text-[36px] font-bold text-[#303972] lg:mt-4 xl:mt-0">
             Teachers Details
           </h1>
 
