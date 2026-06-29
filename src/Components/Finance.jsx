@@ -1,6 +1,6 @@
 import React from "react";
 import Wrapper from "./Wrapper";
-import Print from "../assets/Print.png";
+import Print from "../assets/print.png";
 import Searchicon from "../assets/Search.png";
 import Placeholder from "../assets/Placeholder.png";
 import Bell from "../assets/bell.png";

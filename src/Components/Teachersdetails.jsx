@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink, useParams } from "react-router-dom";
 import Wrapper from "./Wrapper";
-import teachersData from "./teachersdata";
+import teachersData from "./Teachersdata";
 import Masking from "../assets/Masking.png";
 import Bell from "../assets/bell.png";
 import gear from "../assets/gear.png";

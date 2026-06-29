@@ -11,7 +11,7 @@ import Searchicon from "../assets/Search.png";
 import dropdown from "../assets/dropdown.png";
 import sign from "../assets/sign.png";
 
-import teachersData from "./teachersdata";
+import teachersData from "./Teachersdata";
 
 const Teachers = () => {
   const navigate = useNavigate();

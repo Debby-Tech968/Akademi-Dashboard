@@ -7,8 +7,8 @@ import Masking from "../assets/Masking.png";
 import Bell from "../assets/bell.png";
 import gear from "../assets/gear.png";
 import Placeholder from "../assets/Placeholder.png";
-import Location from "../assets/location.png";
-import Phone1 from "../assets/phone1.png";
+import Location from "../assets/Location.png";
+import Phone1 from "../assets/Phone1.png";
 import Mail1 from "../assets/mail1.png";
 import Btn from "./Btn";
 
