@@ -29,11 +29,11 @@ const Teachersdetails = () => {
       <Wrapper>
         {/* TOP BAR */}
         <div className="sticky  xl:fixed top-0 xl:left-80 xl:right-5 z-20 bg-[#F3F4FF] py-4 xl:pt-8 xl:px-10 flex flex-col lg:flex-row justify-between items-end md:items-end lg:items-center gap-4">
-          <h1 className="text-[16px] sm:text-[32px] lg:text-[36px] font-bold text-[#303972] lg:mt-4 xl:mt-0">
+          <h1 className="text-[28px] sm:text-[32px] lg:text-[36px] font-bold text-[#303972] lg:mt-4 xl:mt-0">
             Teachers Details
           </h1>
 
-          <div className="lg:flex md:hidden hidden items-center bg-white rounded-full md:w-full w-full lg:w-65 ml-20 px-5 py-3 shadow-sm">
+          <div className="lg:flex hidden md:hidden  items-center bg-white rounded-full md:w-full w-full lg:w-65 ml-20 px-5 py-3 shadow-sm">
             <img src={Searchicon} alt="Search" className="w-5 h-5" />
             <input
               type="text"
