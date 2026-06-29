@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink, useParams } from "react-router-dom";
 import Wrapper from "./Wrapper";
-import teachersData from "./teachersData";
+import teachersData from "./teachersdata";
 import Masking from "../assets/Masking.png";
 import Bell from "../assets/bell.png";
 import gear from "../assets/gear.png";
@@ -11,8 +11,8 @@ import Mail from "../assets/Mail.png";
 import Searchicon from "../assets/Search.png";
 import dropdown from "../assets/dropdown.png";
 import sign from "../assets/sign.png";
-import Phone1 from "../assets/phone1.png";
-import Mail1 from "../assets/mail1.png";
+import Phone1 from "../assets/Phone1.png";
+import Mail1 from "../assets/Mail1.png";
 import location from "../assets/location1.png";
 import Btn from "./Btn";
 
